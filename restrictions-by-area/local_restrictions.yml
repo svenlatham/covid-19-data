@@ -424,6 +424,9 @@ E06000045:
 E06000046:
   name: Isle of Wight Council
   restrictions:
+  - alert_level: 1
+    start_date: 2020-12-02
+    start_time: "00:01"
   - alert_level: 3
     start_date: 2020-12-26
     start_time: "00:01"
@@ -475,6 +478,9 @@ E06000051:
 E06000052:
   name: Cornwall Council
   restrictions:
+  - alert_level: 1
+    start_date: 2020-12-02
+    start_time: "00:01"
   - alert_level: 2
     start_date: 2020-12-26
     start_time: "00:01"
